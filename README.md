@@ -94,20 +94,13 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 webpmux -version
 ```
 
-## Donate
+## Donate (donasi)
 - [Pulsa] (+6285724335253)
 - [Trakteer] (FIX EROR)
 
-# Features
+# Fitur
 - Cek [disini]()
 
-# Thanks to
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xinz-Team`](https://github.com/Xinz-Team)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`Mamet`](https://github.com/mamet8/)
-* [`SlavyanDesu`](https://github.com/SlavyanDesu)
-* [`VideFrelan`](https://github.com/VideFrelan)
-* [`TobyG74`](https://github.com/TobyG74)
+# Terimakasih
+* [`Fmw Turorial`]()
+* [`Xinz Team`]()
