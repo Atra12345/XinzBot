@@ -38,7 +38,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone https://github.com/Atra12345/XinzBot.git
 cd XinzBot
 npm install
 node main
@@ -48,7 +48,7 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone https://github.com/Atra12345/XinzBot.git
 cd XinzBot
 npm install
 node main
@@ -57,22 +57,11 @@ node main
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone https://github.com/Atra12345/XinzBot.git
 cd XinzBot
 npm install
 node main
 ```
-
-## Edit file
-- Change ownerNumber on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L2)
-- Change ownerName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L3)
-- Change botName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L6)
-- Change Apikey on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L8)
-- Change fakeReply on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L9)
-- Change Donasi on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L12)
-- You can edit list menu on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/message/help.js#L147)
-- You can add fiture on [this section](https://github.com/Xinz-Team/XinzBot/blob/main/message/xinz.js)
-
 
 ## Installing the FFmpeg for Windows
 * Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/).
@@ -107,10 +96,10 @@ webpmux -version
 
 ## Donate
 - [Pulsa] (+6285724335253)
-- [Trakteer](FIX EROR)
+- [Trakteer] (FIX EROR)
 
 # Features
-- Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
+- Cek [disini]()
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
