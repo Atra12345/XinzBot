@@ -38,7 +38,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone 
 cd XinzBot
 npm install
 node main
@@ -48,7 +48,7 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone 
 cd XinzBot
 npm install
 node main
@@ -57,21 +57,12 @@ node main
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone
 cd XinzBot
 npm install
 node main
 ```
 
-## Edit file
-- Change ownerNumber on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L2)
-- Change ownerName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L3)
-- Change botName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L6)
-- Change Apikey on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L8)
-- Change fakeReply on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L9)
-- Change Donasi on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L12)
-- You can edit list menu on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/message/help.js#L147)
-- You can add fiture on [this section](https://github.com/Xinz-Team/XinzBot/blob/main/message/xinz.js)
 
 
 ## Installing the FFmpeg for Windows
@@ -106,19 +97,12 @@ webpmux -version
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/aqulzz)
-- [Trakteer](https://trakteer.id/aqulzz)
+- [Saweria](+6285724335523)
+- [Trakteer](FIX)
 
-# Features
-- Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
+# FITUR
+- Cek [disini](FIX) SEDANG DI FIX
 
-# Thanks to
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xinz-Team`](https://github.com/Xinz-Team)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`Mamet`](https://github.com/mamet8/)
-* [`SlavyanDesu`](https://github.com/SlavyanDesu)
-* [`VideFrelan`](https://github.com/VideFrelan)
-* [`TobyG74`](https://github.com/TobyG74)
+# TERIMAKASIH KEPADA
+- FMW TUTORIAL
+- Xinz Team
