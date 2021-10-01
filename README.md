@@ -101,6 +101,6 @@ webpmux -version
 # Fitur
 - Cek [disini]()
 
-# Terimakasih
+# Terimakasih Kepada
 * [`Fmw Turorial`]()
 * [`Xinz Team`]()
